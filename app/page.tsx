@@ -14,7 +14,7 @@ export default function Aan() {
       <div className='bg-blue-500 ml-[100px] mt-[99px] pb-[30px] text-black text-[30px]'>May - July</div>
       <div className='bg-yellow-300 ml-[100px] pb-[30px] text-black text-[40px]'>Write a captivating header here to engage your customers</div>
       <div className='bg-green-500 ml-[100px] pb-[50px] text-black text-[20px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet. Pellentesque commodo lacus at sodales sodales. Quisque sagittis orci ut diam condimentum, vel euismod erat placerat. In iaculis arcu eros, eget temp</div>
-      <div className='bg-orange-500 ml-[100px] pb-[99px] text-[20px]'>Call to action</div>
+      <div className='bg-orange-500 ml-[100px] pb-[99px] text-[20px]'>Call to action kontol</div>
     </div>
     {/* ketiga */}
     {/* <div className='bg-white'>ke tiga</div> */}
